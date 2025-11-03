@@ -2,4 +2,4 @@
 
 ## First Steps
 
-This section is supposed to contain some first steps material
+This section is supposed to contain some introductory material
