@@ -1,6 +1,6 @@
 # Teaching Git
 
-## First Steps
+## Introduction
 
 This section is supposed to contain some first steps material in order to teach how to work with git.
 
