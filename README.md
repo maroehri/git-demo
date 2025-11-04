@@ -6,7 +6,7 @@ This section is supposed to contain some first steps material in order to teach 
 
 ## Git commands
 
-### Git Add Menu
+### The git add command
 
 The `git add` command allows to add a file to the stageing directory
 
