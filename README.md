@@ -13,3 +13,7 @@ The `git add` command allows to add a file to the stageing directory
 ### git commit
 
 The `git commit` command allows ...
+
+### Git log
+
+The `git log` command ...
