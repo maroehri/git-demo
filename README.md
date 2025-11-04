@@ -4,4 +4,8 @@
 
 This section is supposed to contain some first steps material
 
-Add a list of all different git commands and their purpose
+## Git commands
+
+### git add
+
+The `git add` command allows to add a file to the stageing directory
