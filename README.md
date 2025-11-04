@@ -9,3 +9,7 @@ This section is supposed to contain some first steps material
 ### git add
 
 The `git add` command allows to add a file to the stageing directory
+
+### git commit
+
+The `git commit` command allows ...
