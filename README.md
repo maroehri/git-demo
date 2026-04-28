@@ -13,3 +13,5 @@ Add a list of all different git commands and their purpose.
 With the `git add` command you can stage changes from the working directory
 
 ### Git commit
+
+With the `git commit` command you can store the changes permanently in the repository
