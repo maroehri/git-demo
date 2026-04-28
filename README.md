@@ -10,4 +10,6 @@ Add a list of all different git commands and their purpose.
 
 ### Git add
 
+With the `git add` command you can stage changes from the working directory
+
 ### Git commit
