@@ -1,6 +1,6 @@
 # Teaching Git for Newcomers
 
-## First Steps
+## First Steps in using Git
 
 This section is supposed to contain some first steps material.
 
